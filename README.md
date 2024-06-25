@@ -27,4 +27,5 @@ Project is created with **Python**. The main packages used:
 * PyautoGUI (Keyboard inputs)
 
 ## Visualization
+Picture manipulation from raw input to the desired form. Black and white picture shows raw input other picture shows last form of the picture which used while training the model.
 <img width="501" alt="Ekran Resmi 2024-06-25 13 28 33" src="https://github.com/ahbis99/RL_Agent_for_Chrome_Dino_Game/assets/76615322/0e0f8493-463e-4a97-9d38-2f351cbba94a">
