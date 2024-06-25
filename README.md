@@ -11,10 +11,10 @@ This is my project for Reinforcement Learning class that I took in University of
 The aim of this project is train a Reinforcement Learning Agent which will play epic Chrome Dino game that everybody played at least once in a life. I created a custom Gym environment for the DinoGame, designed for training reinforcement learning agents to conquer the hurdles of this popular offline game and DQN RL agent which trained on this environment.
 
 ## Environment Info
-• Observation Space: Grayscale image (1, 83,100) representing the game screen.
-• Action Space: Discrete actions - 0 for Jump, 1 for Down, and 2 for No action.
-• Rewards: +1 for actions Jump, -100 if the game is done, and +3 for No action.
-• Rendering: Visual representation using OpenCV.
+* Observation Space: Grayscale image (1, 83,100) representing the game screen.
+* Action Space: Discrete actions - 0 for Jump, 1 for Down, and 2 for No action.
+* Rewards: +1 for actions Jump, -100 if the game is done, and +3 for No action.
+* Rendering: Visual representation using OpenCV.
 
 ## Technologies
 Project is created with **Python**. The main packages used:
