@@ -1,1 +1,1 @@
-# RL_Agent_for_Chrome_Dino_Game
+# Reinforcement Learning Agent for Chrome Dino Game
